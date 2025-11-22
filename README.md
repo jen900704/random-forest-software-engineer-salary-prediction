@@ -1,4 +1,4 @@
-# Software Engineer Salary Prediction
+# Random Forest Software Engineer Salary Prediction
 
 This project explores salary patterns for software engineers using a real world dataset. The goal is to understand how experience, location, and company factors influence salary levels and to build a predictive model based on these variables.
 
